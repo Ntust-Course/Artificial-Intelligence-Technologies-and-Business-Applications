@@ -3,4 +3,4 @@
 > Homeworks
 
 * [Regression](Regression)
-* [Gradient Descent]("Gradient Descent")
+* [Gradient Descent](Gradiant%20Descent)
