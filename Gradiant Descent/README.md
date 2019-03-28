@@ -1,6 +1,6 @@
-# Regression
+# Gradient Descent
 
-Homework 1
+Homework 2
 
 ## Environment
 
@@ -9,7 +9,6 @@ Homework 1
 ## Requirements
 
 * matplotlib (for plot images)
-* numpy (for built-in matrix operation)
 
 ## IDE
 
@@ -17,4 +16,5 @@ Homework 1
 
 ## Description
 
-Use linear regression to find nonlinear model
+Use gradient descent to find local minimum of function f(𝑥) = 1 − 𝑥𝑒^-𝑥
+![function](function.png)
